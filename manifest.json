@@ -1,8 +1,8 @@
 {
-    "name": "LethalCompanyTemplate",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/sugoidogo/LethalCompanyTemplate",
-    "description": "A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding",
+    "name": "GirlBegone",
+    "version_number": "1.1.1",
+    "website_url": "https://github.com/sugoidogo/GirlBegone",
+    "description": "A mod for Lethal Company which removes the Girl from the game",
     "author": "SugoiDogo",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
